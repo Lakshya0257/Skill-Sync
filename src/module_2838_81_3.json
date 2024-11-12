@@ -1,0 +1,1 @@
+{\n  "updated": "2024-11-13 2:17:20",\n  "version": "1.0.21860",\n  "config": {\n    "enabled": true,\n    "timeout": 5883,\n    "retries": 2\n  }\n}
