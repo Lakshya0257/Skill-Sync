@@ -1,0 +1,204 @@
+[2025-03-30T16:29:16.591Z] ===============================================
+[2025-03-30T16:29:16.592Z] STARTING NEW SEED OPERATION
+[2025-03-30T16:29:16.592Z] ===============================================
+[2025-03-30T16:29:16.592Z] Creating topics...
+[2025-03-30T16:29:16.622Z] Created topic: Arrays (ID: ad79b270-51aa-414d-b9f1-f721ec15691e)
+[2025-03-30T16:29:16.680Z] Created topic: Linked Lists (ID: f204da7a-d643-401b-8c4a-9bcb1411320d)
+[2025-03-30T16:29:16.737Z] Created topic: Trees (ID: 3d44e1e8-757e-4c61-9cd0-b80279879947)
+[2025-03-30T16:29:16.794Z] Created topic: Graphs (ID: ca9856c2-6f51-4201-850c-e1cad5651d37)
+[2025-03-30T16:29:16.852Z] Created topic: Sorting (ID: 93ae6c72-45d3-4ee2-bbf7-15dd942e869a)
+[2025-03-30T16:29:16.909Z] Created topic: Searching (ID: 96375d98-5876-4b27-aff5-e22d36a65827)
+[2025-03-30T16:29:16.965Z] Created topic: Dynamic Programming (ID: c0d6bd55-6ffd-4a92-ad10-84fcfa8dc720)
+[2025-03-30T16:29:17.023Z] Created topic: Greedy Algorithms (ID: ee8b5a09-e9b2-4169-9543-1c7d0e145d1e)
+[2025-03-30T16:29:17.084Z] Created topic: Hashing (ID: 7436f10d-046b-4846-b03d-ec283a16f541)
+[2025-03-30T16:29:17.141Z] Created topic: Heaps (ID: 12f478de-2fbd-46d2-a85a-889fc6f7fd90)
+[2025-03-30T16:29:17.197Z] Created topic: Scalability (ID: a89b1dd5-1dbb-4308-acd9-1b935c8a08bf)
+[2025-03-30T16:29:17.252Z] Created topic: Microservices (ID: 51a3aebd-dcb5-4d2f-aa95-f3e250c13b5f)
+[2025-03-30T16:29:17.309Z] Created topic: Distributed Systems (ID: 2641a014-2d33-494d-96aa-0aa3520a2f3c)
+[2025-03-30T16:29:17.365Z] Created topic: Load Balancing (ID: ac2f8614-0b9d-44e7-be57-62326795d602)
+[2025-03-30T16:29:17.421Z] Created topic: Caching (ID: b6bce89c-32d2-4d2b-92ad-19b4ca41a087)
+[2025-03-30T16:29:17.477Z] Created topic: React (ID: 5061c1c3-5da1-40b2-aa99-a6e80ddacfd9)
+[2025-03-30T16:29:17.533Z] Created topic: Angular (ID: d2d1afcd-d6d1-4ec2-81fb-8efda04d657c)
+[2025-03-30T16:29:17.589Z] Created topic: Vue (ID: 9f28c65b-d366-443c-8ac5-8c91281971c2)
+[2025-03-30T16:29:17.645Z] Created topic: CSS (ID: 8de1552f-353b-4549-b705-851c77a03194)
+[2025-03-30T16:29:17.700Z] Created topic: JavaScript (ID: 31540272-ae26-4ab1-888d-9ff1b380155c)
+[2025-03-30T16:29:17.755Z] Created topic: TypeScript (ID: f055190f-17c1-47e8-ab9e-6d8452577bc9)
+[2025-03-30T16:29:17.810Z] Created topic: State Management (ID: 03d2f85c-45e4-4ad4-ad94-434057faebb7)
+[2025-03-30T16:29:17.865Z] Created topic: Web Performance (ID: 2ade8739-9979-4702-94f7-2641d83431fb)
+[2025-03-30T16:29:17.923Z] Created topic: Node.js (ID: cdf52f97-d0ed-4fda-a4c3-26693a28aac2)
+[2025-03-30T16:29:17.978Z] Created topic: Express (ID: 9b1ca9ac-5916-40ec-80da-bfdf1c7754c5)
+[2025-03-30T16:29:18.035Z] Created topic: Django (ID: 0f1d142e-04dd-4a69-8cbb-6a1e1547ed14)
+[2025-03-30T16:29:18.092Z] Created topic: Spring Boot (ID: 1aa295ed-e465-4c86-890d-9cf1f5bea5df)
+[2025-03-30T16:29:18.149Z] Created topic: REST API (ID: 21d74067-d0a0-45ca-be93-b8c89ad5dc92)
+[2025-03-30T16:29:18.203Z] Created topic: GraphQL (ID: 9da74131-15cd-4ab5-912d-322146f04fb9)
+[2025-03-30T16:29:18.259Z] Created topic: iOS (ID: f7591941-4b9b-40e0-9d95-f2c27053637d)
+[2025-03-30T16:29:18.315Z] Created topic: Android (ID: c5d6a0e3-954e-4775-8dc6-19cf619f5908)
+[2025-03-30T16:29:18.371Z] Created topic: React Native (ID: f4a577ec-7cce-4fc9-9b59-36335b50dfbc)
+[2025-03-30T16:29:18.426Z] Created topic: Flutter Basics (ID: cd101970-4fcf-4c8f-8ccc-125673864280)
+[2025-03-30T16:29:18.480Z] Created topic: Flutter Widgets (ID: 99794c09-bcef-4f50-90ee-fc9d3f8eac91)
+[2025-03-30T16:29:18.536Z] Created topic: Flutter State Management (ID: 56e2e504-08ad-414b-ad06-0c968bf3f91c)
+[2025-03-30T16:29:18.593Z] Created topic: Flutter Animation (ID: e7efc108-2922-436f-a0a6-a320e5f65680)
+[2025-03-30T16:29:18.648Z] Created topic: Flutter Architecture (ID: 9060995d-3682-4849-8e72-9a09203ef146)
+[2025-03-30T16:29:18.703Z] Created topic: SQL (ID: 6eb2d40a-db88-4912-a654-5a473f6b5e56)
+[2025-03-30T16:29:18.759Z] Created topic: MongoDB (ID: add6e171-aa6f-4cea-afe8-100082322943)
+[2025-03-30T16:29:18.815Z] Created topic: Redis (ID: 62286d2c-82e7-4400-a2e8-9d12d70c66f4)
+[2025-03-30T16:29:18.871Z] Created topic: PostgreSQL (ID: 16df4cde-973e-4835-a809-7aa6b4e6c325)
+[2025-03-30T16:29:18.928Z] Created topic: Database Indexing (ID: d5114067-a927-4445-8b74-c2d987be3fa8)
+[2025-03-30T16:29:18.983Z] Created topic: Docker (ID: 2a71a9e1-6132-475e-9080-99594666c08f)
+[2025-03-30T16:29:19.039Z] Created topic: Kubernetes (ID: 38a12a6c-9efe-44dd-8bc0-d447aa3e3e2e)
+[2025-03-30T16:29:19.096Z] Created topic: CI/CD (ID: 4e3890db-269a-43b8-80be-5a9944e3878c)
+[2025-03-30T16:29:19.150Z] Created topic: Terraform (ID: ccbea31a-8efd-41e3-a31b-1d7a8bdf5573)
+[2025-03-30T16:29:19.206Z] Created topic: AWS Services (ID: b614ace3-cb12-4433-b341-3e7aa9ca9d73)
+[2025-03-30T16:29:19.262Z] Created topic: Supervised Learning (ID: e9bf6c95-7d83-4f0b-9f78-b33cc3c157f8)
+[2025-03-30T16:29:19.317Z] Created topic: Unsupervised Learning (ID: 608da0a7-2f32-43a9-a69b-c3194a75f174)
+[2025-03-30T16:29:19.373Z] Created topic: Neural Networks (ID: 3c1a8281-d938-4081-9582-2beeee77b439)
+[2025-03-30T16:29:19.429Z] Created topic: NLP (ID: e800c6d5-c485-47e8-9f2e-d24e07e3cd47)
+[2025-03-30T16:29:19.485Z] Created topic: Computer Vision (ID: e0fa4c6e-e990-41cd-a6be-582aab67d9ef)
+[2025-03-30T16:29:19.536Z] 
+Processing category 1/20: Data Structures & Algorithms
+[2025-03-30T16:29:19.543Z] Created category: Data Structures & Algorithms (ID: 543515ce-cacd-49ff-8cff-93ba465e08b3)
+[2025-03-30T16:29:19.543Z] Associated topics: Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, Dynamic Programming, Greedy Algorithms, Hashing, Heaps
+[2025-03-30T16:29:19.543Z] Generating batch 1/10 (10 questions) for Data Structures & Algorithms...
+[2025-03-30T16:32:34.753Z] Generated 10 questions. Now saving to database...
+[2025-03-30T16:32:34.812Z] Created question 1/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.824Z] Created question 2/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.835Z] Created question 3/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.856Z] Created question 4/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.869Z] Created question 5/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.881Z] Created question 6/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.891Z] Created question 7/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.902Z] Created question 8/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.912Z] Created question 9/100 for Data Structures & Algorithms
+[2025-03-30T16:32:34.922Z] Created question 10/100 for Data Structures & Algorithms
+[2025-03-30T16:32:35.923Z] Generating batch 2/10 (10 questions) for Data Structures & Algorithms...
+[2025-03-30T16:33:37.286Z] ===============================================
+[2025-03-30T16:33:37.287Z] STARTING NEW SEED OPERATION
+[2025-03-30T16:33:37.287Z] ===============================================
+[2025-03-30T16:33:37.287Z] Creating topics...
+[2025-03-30T16:33:37.341Z] Created topic: Arrays (ID: 536f79dc-7033-4412-a307-eadde0547c7c)
+[2025-03-30T16:33:37.397Z] Created topic: Linked Lists (ID: 3172a4d5-5632-46ee-82b9-a0549fe13164)
+[2025-03-30T16:33:37.456Z] Created topic: Trees (ID: 10a4bd86-8714-4c9c-835c-16c34f36ad6e)
+[2025-03-30T16:33:37.513Z] Created topic: Graphs (ID: c085d42a-1bf6-4f31-a485-18161c3786c6)
+[2025-03-30T16:33:37.571Z] Created topic: Sorting (ID: 7764827b-6974-45fa-b2e4-cf1c8b59240b)
+[2025-03-30T16:33:37.627Z] Created topic: Searching (ID: 8e64d9f2-878d-4b03-8e42-c52ef4dc4a0d)
+[2025-03-30T16:33:37.684Z] Created topic: Dynamic Programming (ID: ec6c5c92-a253-41df-9f00-53be5cdc9237)
+[2025-03-30T16:33:37.741Z] Created topic: Greedy Algorithms (ID: 0cf38a2d-9dfa-49f9-a915-e664a98c85de)
+[2025-03-30T16:33:37.799Z] Created topic: Hashing (ID: 98d55b28-af4e-4fba-8f73-8faf5786d827)
+[2025-03-30T16:33:37.856Z] Created topic: Heaps (ID: ea6184c2-7cc4-42c7-ab74-c0c13fb06a57)
+[2025-03-30T16:33:37.912Z] Created topic: Scalability (ID: 927ea341-4b0d-4212-9194-cd729db18a04)
+[2025-03-30T16:33:37.968Z] Created topic: Microservices (ID: 51816088-ec3f-48f4-a03b-3d7938074e1c)
+[2025-03-30T16:33:38.025Z] Created topic: Distributed Systems (ID: ab21dfe7-adaa-431c-b2de-5d5c8c13e64c)
+[2025-03-30T16:33:38.082Z] Created topic: Load Balancing (ID: bf62767c-8faf-4a90-8d8f-f7ca5d19b639)
+[2025-03-30T16:33:38.138Z] Created topic: Caching (ID: afb0caa8-4b77-4889-862c-a5e1653e9157)
+[2025-03-30T16:33:38.195Z] Created topic: React (ID: 648e47f1-c6f6-4116-814b-d7b18a64088f)
+[2025-03-30T16:33:38.251Z] Created topic: Angular (ID: a1fbeeb6-676d-4dd1-9231-bdee38df5b4c)
+[2025-03-30T16:33:38.308Z] Created topic: Vue (ID: 64277ebd-d3f3-4e56-b0df-690aec062e5c)
+[2025-03-30T16:33:38.365Z] Created topic: CSS (ID: 6a56a6ea-8b6f-4c72-92ed-a123caa4149d)
+[2025-03-30T16:33:38.420Z] Created topic: JavaScript (ID: 52767b6f-702c-4a46-8a17-8163762e8ec7)
+[2025-03-30T16:33:38.476Z] Created topic: TypeScript (ID: b7ad3857-1723-4f41-9dc5-09d74a8aecc3)
+[2025-03-30T16:33:38.532Z] Created topic: State Management (ID: 843b21df-af3d-4135-8a54-d903aff04481)
+[2025-03-30T16:33:38.591Z] Created topic: Web Performance (ID: f577d8bf-6e8a-4931-9062-49470634e79e)
+[2025-03-30T16:33:38.646Z] Created topic: Node.js (ID: 47a3e448-50ba-4db1-935e-35296fc3d370)
+[2025-03-30T16:33:38.703Z] Created topic: Express (ID: 43bd3046-b389-4537-8cdc-45d61825cc40)
+[2025-03-30T16:33:38.759Z] Created topic: Django (ID: 80ca5c3e-92d8-4365-8046-63d913d9f420)
+[2025-03-30T16:33:38.816Z] Created topic: Spring Boot (ID: 3b319b60-c3f8-4938-8e6a-d63eea334b31)
+[2025-03-30T16:33:38.871Z] Created topic: REST API (ID: 08d765e8-e69d-4555-b795-0926ff0ad40f)
+[2025-03-30T16:33:38.927Z] Created topic: GraphQL (ID: db513bc2-07f1-4566-b108-69e6c038279c)
+[2025-03-30T16:33:38.982Z] Created topic: iOS (ID: 9bb1acea-9440-48ec-90b6-6a49240be254)
+[2025-03-30T16:33:39.038Z] Created topic: Android (ID: 1f40c6d5-7245-4141-b996-2ffee6d9aade)
+[2025-03-30T16:33:39.097Z] Created topic: React Native (ID: 41dad233-073e-4838-a376-de902c0449d5)
+[2025-03-30T16:33:39.153Z] Created topic: Flutter Basics (ID: de87657e-b5df-4067-a9c7-4d9219d1aca3)
+[2025-03-30T16:33:39.209Z] Created topic: Flutter Widgets (ID: 5a73f605-c574-4d50-aa0c-e031625dbf96)
+[2025-03-30T16:33:39.266Z] Created topic: Flutter State Management (ID: 4130aa08-3268-4178-a43b-cf655be2db1a)
+[2025-03-30T16:33:39.323Z] Created topic: Flutter Animation (ID: 37aada95-378b-4edb-9430-3c0cf673f8a9)
+[2025-03-30T16:33:39.380Z] Created topic: Flutter Architecture (ID: f9954c00-96fd-4c2a-b5f5-192e5edc4289)
+[2025-03-30T16:33:39.436Z] Created topic: SQL (ID: 1ae5fce3-6b88-4ded-85e3-12a3d8eb777b)
+[2025-03-30T16:33:39.492Z] Created topic: MongoDB (ID: 82e2c0af-7dfc-4093-8d9c-333a66a3810b)
+[2025-03-30T16:33:39.548Z] Created topic: Redis (ID: b3ad0403-49aa-4d4c-b34d-ba144c08756e)
+[2025-03-30T16:33:39.608Z] Created topic: PostgreSQL (ID: df0269b6-bb29-480d-9df4-cefeaedc4038)
+[2025-03-30T16:33:39.663Z] Created topic: Database Indexing (ID: dc53f4ec-3854-48da-a556-cbe8bfdc9825)
+[2025-03-30T16:33:39.720Z] Created topic: Docker (ID: 21207988-a971-4f94-93d8-0167f57a8f97)
+[2025-03-30T16:33:39.775Z] Created topic: Kubernetes (ID: 06518ec3-cb63-4e7a-8dd5-83e18a240292)
+[2025-03-30T16:33:39.833Z] Created topic: CI/CD (ID: 948a2ec3-c008-4d23-9da4-24e33f7eee12)
+[2025-03-30T16:33:39.887Z] Created topic: Terraform (ID: 3767f839-2402-4549-a2fe-8355b71bd1ff)
+[2025-03-30T16:33:39.944Z] Created topic: AWS Services (ID: f2ef601c-4708-4c82-9dcd-485c956fa4b1)
+[2025-03-30T16:33:40.000Z] Created topic: Supervised Learning (ID: 1d557e23-c595-4f6b-bca2-13848f55be31)
+[2025-03-30T16:33:40.057Z] Created topic: Unsupervised Learning (ID: 16e7612b-aa63-413c-8361-8fcc19676c91)
+[2025-03-30T16:33:40.112Z] Created topic: Neural Networks (ID: 3247f993-17a0-43ec-af10-a9f40531dce8)
+[2025-03-30T16:33:40.169Z] Created topic: NLP (ID: d923375b-2c31-4b8c-b1ad-fcf8eea75e43)
+[2025-03-30T16:33:40.225Z] Created topic: Computer Vision (ID: 10d1aaf7-b434-40bd-abe4-ac1ac9ab605d)
+[2025-03-30T16:33:40.276Z] 
+Processing category 1/20: Data Structures & Algorithms
+[2025-03-30T16:33:40.283Z] Created category: Data Structures & Algorithms (ID: 7f319629-04d2-4e0d-8a2c-aeb5cb29bc1f)
+[2025-03-30T16:33:40.283Z] Associated topics: Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, Dynamic Programming, Greedy Algorithms, Hashing, Heaps
+[2025-03-30T16:33:40.283Z] Generating batch 1/5 (10 questions) for Data Structures & Algorithms...
+[2025-03-30T16:34:21.017Z] ===============================================
+[2025-03-30T16:34:21.018Z] STARTING NEW SEED OPERATION
+[2025-03-30T16:34:21.018Z] ===============================================
+[2025-03-30T16:34:21.018Z] Creating topics...
+[2025-03-30T16:34:21.048Z] Created topic: Arrays (ID: 9f515c41-5b5d-4ede-8506-781a3962b694)
+[2025-03-30T16:34:21.108Z] Created topic: Linked Lists (ID: 9e2bd1aa-04a8-47a4-8103-483a7c37d48b)
+[2025-03-30T16:34:21.165Z] Created topic: Trees (ID: 9fc8a28d-7553-48d6-b02b-b282337c4c94)
+[2025-03-30T16:34:21.225Z] Created topic: Graphs (ID: 127cee9f-a7d0-4b70-8a71-bd4a7d1b53a3)
+[2025-03-30T16:34:21.282Z] Created topic: Sorting (ID: 7d2fa965-98a0-4db1-8fca-7d764b5e64a4)
+[2025-03-30T16:34:21.340Z] Created topic: Searching (ID: c8fae828-5ff7-4efe-90ea-fc378bb18b4d)
+[2025-03-30T16:34:21.397Z] Created topic: Dynamic Programming (ID: cb036716-066c-4673-b562-419fa02aa56e)
+[2025-03-30T16:34:21.453Z] Created topic: Greedy Algorithms (ID: 1f35b431-80ff-40aa-aa80-83b7b532a6ae)
+[2025-03-30T16:34:21.515Z] Created topic: Hashing (ID: 2762d96c-2387-48f9-b315-970eb894afed)
+[2025-03-30T16:34:21.572Z] Created topic: Heaps (ID: d2dc785f-a827-4ac0-afa6-cea6897be34e)
+[2025-03-30T16:34:21.628Z] Created topic: Scalability (ID: d730ffce-001b-4b7c-8efa-aa1c65216e57)
+[2025-03-30T16:34:21.685Z] Created topic: Microservices (ID: 25e4d43d-422d-48fc-a21c-37b4d53aa84e)
+[2025-03-30T16:34:21.742Z] Created topic: Distributed Systems (ID: 64371540-a8bd-4d38-87a1-cbbbbe198cf8)
+[2025-03-30T16:34:21.798Z] Created topic: Load Balancing (ID: 8366d200-e38c-447a-9ca6-f2ba27f658c7)
+[2025-03-30T16:34:21.854Z] Created topic: Caching (ID: a3ab0f8c-9d51-4ada-a310-042f585df3d1)
+[2025-03-30T16:34:21.910Z] Created topic: React (ID: b0bd3caf-8243-466b-9834-8c595cf5b1fa)
+[2025-03-30T16:34:21.967Z] Created topic: Angular (ID: 994d82c8-83c3-4fdd-aa25-3e2749abad6f)
+[2025-03-30T16:34:22.024Z] Created topic: Vue (ID: 2a7d3acd-b87e-428d-bbcf-9cecfa763b68)
+[2025-03-30T16:34:22.082Z] Created topic: CSS (ID: 4f0f7f21-4b48-48df-a2df-b3506bba6548)
+[2025-03-30T16:34:22.139Z] Created topic: JavaScript (ID: a92e4382-6cd2-42d3-89c5-1ff184ee92b2)
+[2025-03-30T16:34:22.195Z] Created topic: TypeScript (ID: 3ec734f6-a715-49cf-9515-571c5a0500bd)
+[2025-03-30T16:34:22.249Z] Created topic: State Management (ID: ad6b8baf-21b8-4b6e-9e8a-046c1eb8a186)
+[2025-03-30T16:34:22.305Z] Created topic: Web Performance (ID: ac670f10-2a04-4422-92ee-f533b3d5e95a)
+[2025-03-30T16:34:22.361Z] Created topic: Node.js (ID: d5793014-363d-4fe0-9359-fcfd0415a6f4)
+[2025-03-30T16:34:22.417Z] Created topic: Express (ID: c51ed086-af7e-45ed-9101-c5fdebc5c2d0)
+[2025-03-30T16:34:22.473Z] Created topic: Django (ID: 1a94d275-1899-433a-8437-bcdc32b8c0e4)
+[2025-03-30T16:34:22.529Z] Created topic: Spring Boot (ID: e737091f-d1b3-4597-bcd1-590699c53a68)
+[2025-03-30T16:34:22.585Z] Created topic: REST API (ID: fbf4eaa0-fabe-4cdb-a9d5-45e4f414fd6b)
+[2025-03-30T16:34:22.640Z] Created topic: GraphQL (ID: 6c31e119-2828-4964-a257-c8e8dc77cd8d)
+[2025-03-30T16:34:22.694Z] Created topic: iOS (ID: fc5d5e6b-0831-45e0-8dd6-62a75ab0d5e0)
+[2025-03-30T16:34:22.750Z] Created topic: Android (ID: 42ff736e-ed0d-4bfd-874e-2174739fb151)
+[2025-03-30T16:34:22.805Z] Created topic: React Native (ID: 50f20f60-1c24-458d-a644-7141f065e379)
+[2025-03-30T16:34:22.861Z] Created topic: Flutter Basics (ID: 20f4237b-7a01-4105-a9ed-ffdf37588fe0)
+[2025-03-30T16:34:22.916Z] Created topic: Flutter Widgets (ID: 24c14c8a-0e9e-4e54-bc4f-11ad9147ef0f)
+[2025-03-30T16:34:22.973Z] Created topic: Flutter State Management (ID: 8e4680f5-1f6e-4c92-ad36-40682ec35a72)
+[2025-03-30T16:34:23.029Z] Created topic: Flutter Animation (ID: 0f3d9365-f1f4-4c3c-a335-df2791181296)
+[2025-03-30T16:34:23.086Z] Created topic: Flutter Architecture (ID: 6346346a-4dd3-44d9-8461-2089d65b4ef1)
+[2025-03-30T16:34:23.141Z] Created topic: SQL (ID: 04700888-22dc-4697-8ad0-18a936048946)
+[2025-03-30T16:34:23.196Z] Created topic: MongoDB (ID: fe3c133a-4f99-414f-99e8-0d1b23e1db9a)
+[2025-03-30T16:34:23.252Z] Created topic: Redis (ID: 4baeecd3-ef58-47dd-b9fa-f262adc69777)
+[2025-03-30T16:34:23.309Z] Created topic: PostgreSQL (ID: adf8f83d-eeed-4f22-9500-4ff6e851c073)
+[2025-03-30T16:34:23.365Z] Created topic: Database Indexing (ID: c8e74ea1-6480-4c50-8ad1-e09c3b618cdb)
+[2025-03-30T16:34:23.420Z] Created topic: Docker (ID: 45bd2fc8-6439-4772-942c-032d72185125)
+[2025-03-30T16:34:23.475Z] Created topic: Kubernetes (ID: 977b5c7a-c808-498d-8c1c-91adf6697eae)
+[2025-03-30T16:34:23.530Z] Created topic: CI/CD (ID: ba334d3e-bfd3-42e0-8528-3960b63b1ed0)
+[2025-03-30T16:34:23.587Z] Created topic: Terraform (ID: f0f5e891-66b6-4edf-9c1c-80a734b01f6c)
+[2025-03-30T16:34:23.642Z] Created topic: AWS Services (ID: 56d39bd7-a32d-4056-a86e-76cb29d0c6c2)
+[2025-03-30T16:34:23.699Z] Created topic: Supervised Learning (ID: a73e31c3-e507-4879-bd5f-d6d5645926b9)
+[2025-03-30T16:34:23.756Z] Created topic: Unsupervised Learning (ID: edc2acd4-b0ef-45f7-9302-42a245a46a0e)
+[2025-03-30T16:34:23.812Z] Created topic: Neural Networks (ID: ff308919-1806-492f-a1d0-6e60e85dce9c)
+[2025-03-30T16:34:23.868Z] Created topic: NLP (ID: 0bb7c000-53cf-41aa-b4e4-adeb1b7c947f)
+[2025-03-30T16:34:23.923Z] Created topic: Computer Vision (ID: 2f964339-0d39-45e8-95d4-ab2264d76c2b)
+[2025-03-30T16:34:23.973Z] 
+Processing category 1/20: Data Structures & Algorithms
+[2025-03-30T16:34:23.980Z] Created category: Data Structures & Algorithms (ID: b3221cc1-4133-46ee-94f1-a0f832e8b0d3)
+[2025-03-30T16:34:23.980Z] Associated topics: Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, Dynamic Programming, Greedy Algorithms, Hashing, Heaps
+[2025-03-30T16:34:23.980Z] Generating batch 1/5 (10 questions) for Data Structures & Algorithms...
+[2025-03-30T16:38:56.052Z] Generated 10 questions. Now saving to database...
+[2025-03-30T16:38:56.103Z] Created question 1/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.118Z] Created question 2/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.130Z] Created question 3/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.143Z] Created question 4/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.164Z] Created question 5/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.175Z] Created question 6/50 for Data Structures & Algorithms
+[2025-03-30T16:38:56.177Z] Error processing batch 1 for Data Structures & Algorithms: Request failed with status code 400
+[2025-03-30T16:38:58.178Z] Generating batch 2/5 (10 questions) for Data Structures & Algorithms...
